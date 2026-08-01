@@ -1,1 +1,1 @@
-# genai-engineering-databricks
+# Generative AI Engineering with Databricks
